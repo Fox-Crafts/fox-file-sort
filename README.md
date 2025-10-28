@@ -10,7 +10,7 @@ Fox Craft is a Python utility that automatically sorts files inside a folder int
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/FoxCraft.git
+   git clone https://github.com/yourusername/fox-file-sort.git
    cd FoxCraft
 
     Install dependencies:
