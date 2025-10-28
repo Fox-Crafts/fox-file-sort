@@ -148,12 +148,6 @@ def bulk_sort(folder_path): #sorts all files into folder into catagorised subFol
            print(f'While sorting file: {file} file type \"{file_type}\" not supported by FoxFileSorter')
            continue
 
-def fox_welcome():
-
-    ##ascii code here, gpt can generate or smth
-
-    return
-
 def cli():
 
     parser = argparse.ArgumentParser(description="Sorts files inside of a specified folder into newly created subfolders by their file types.")
